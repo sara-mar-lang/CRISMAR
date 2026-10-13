@@ -1,0 +1,118 @@
+
+[03:38:46 UTC] [INFO] Elementor batch processing started
+[03:38:46 UTC] [INFO] Misc batch processing started
+[03:38:46 UTC] [INFO] Customizer image download batch processing started
+[03:38:46 UTC] [INFO] Elementor posts retrieved for processing | Context: {"post_count":9,"post_types":"page, post, wp_block, wp_template, wp_navigation, wp_template_part, wp_global_styles, sc_form"}
+[03:38:46 UTC] [INFO] Processing Elementor post | Context: {"post_id":2382}
+[03:38:46 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":2382,"has_version":false,"has_data":false}
+[03:38:46 UTC] [INFO] Processing Elementor post | Context: {"post_id":3610}
+[03:38:46 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":3610,"has_version":false,"has_data":false}
+[03:38:46 UTC] [INFO] Processing Elementor post | Context: {"post_id":2162}
+[03:38:46 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":2162,"has_version":false,"has_data":false}
+[03:38:46 UTC] [INFO] Processing Elementor post | Context: {"post_id":2161}
+[03:38:46 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":2161,"has_version":false,"has_data":false}
+[03:38:46 UTC] [INFO] Processing Elementor post | Context: {"post_id":2089}
+[03:38:46 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":2089,"has_version":false,"has_data":false}
+[03:38:46 UTC] [INFO] Processing Elementor post | Context: {"post_id":2053}
+[03:38:46 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":2053,"has_version":false,"has_data":false}
+[03:38:46 UTC] [INFO] Processing Elementor post | Context: {"post_id":2054}
+[03:38:46 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":2054,"has_version":false,"has_data":false}
+[03:38:46 UTC] [INFO] Processing Elementor post | Context: {"post_id":2055}
+[03:38:46 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":2055,"has_version":false,"has_data":false}
+[03:38:46 UTC] [INFO] Processing Elementor post | Context: {"post_id":2056}
+[03:38:46 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":2056,"has_version":false,"has_data":false}
+[03:38:46 UTC] [SUCCESS] Elementor batch processing completed successfully | Context: {"posts_processed":9}
+[03:38:47 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":71,"offset":10,"chunk_size":10}
+[03:38:46 UTC] [INFO] Misc batch processing skipped (not AI template)
+[03:38:46 UTC] [INFO] Starting customizer image processing | Context: {"customizer_options_count":2622}
+[03:38:46 UTC] [SUCCESS] Customizer image download completed | Context: {"options_processed":2622,"images_processed_successfully":0,"images_failed":0,"total_images_attempted":0}
+[03:38:46 UTC] [SUCCESS] Customizer batch import method completed
+[03:38:48 UTC] [INFO] Checking if plugin directory clearing is needed
+[03:38:47 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":10}
+[03:38:47 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1795,"file":"image-03.jpg"}
+[03:38:48 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1796,"file":"image-01.jpg"}
+[03:38:48 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1797,"file":"image-02.jpg"}
+[03:38:48 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1801,"file":"banner-02.jpg"}
+[03:38:50 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1805,"file":"image-06.jpg"}
+[03:38:50 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1806,"file":"image-11.jpg"}
+[03:38:50 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":3929,"file":"woocommerce-placeholder.webp"}
+[03:38:51 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":3930,"file":"woocommerce-placeholder-1.webp"}
+[03:38:52 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":3931,"file":"woocommerce-placeholder-2.webp"}
+[03:38:55 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":71,"offset":"20","chunk_size":10}
+[03:38:53 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":3932,"file":"woocommerce-placeholder-3.webp"}
+[03:38:54 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":20}
+[03:38:56 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":71,"offset":"30","chunk_size":10}
+[03:38:55 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":"20"}
+[03:38:55 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1807,"file":"image-04.jpg"}
+[03:38:55 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1808,"file":"image-10.jpg"}
+[03:38:55 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1809,"file":"image-05.jpg"}
+[03:38:55 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1810,"file":"image-07.jpg"}
+[03:38:55 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1811,"file":"image-08.jpg"}
+[03:38:55 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1812,"file":"image-09.jpg"}
+[03:38:55 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1813,"file":"image-12.jpg"}
+[03:38:55 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1815,"file":"image-13.jpg"}
+[03:38:55 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1817,"file":"image-14.jpg"}
+[03:38:55 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1818,"file":"team-0.jpg"}
+[03:38:55 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":30}
+[03:38:56 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":"30"}
+[03:38:56 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1819,"file":"team-01.jpg"}
+[03:38:56 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1845,"file":"product-mug2.jpg"}
+[03:38:57 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1846,"file":"product-mug4.jpg"}
+[03:38:58 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1847,"file":"product-mug6.jpg"}
+[03:39:00 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1848,"file":"product-mug8.jpg"}
+[03:39:01 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1849,"file":"product-mug10.jpg"}
+[03:39:02 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":71,"offset":"40","chunk_size":10}
+[03:39:02 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1880,"file":"globe-free-img.png"}
+[03:39:02 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1881,"file":"quality-free-img.png"}
+[03:39:02 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1882,"file":"tag-free-img.png"}
+[03:39:02 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1883,"file":"lock-free-img.png"}
+[03:39:02 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":40}
+[03:39:05 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":71,"offset":"50","chunk_size":10}
+[03:39:02 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":"40"}
+[03:39:02 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2052,"file":"woocommerce-placeholder.png"}
+[03:39:04 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2073,"file":"image-05.jpg"}
+[03:39:04 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2074,"file":"image-07.jpg"}
+[03:39:04 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2075,"file":"image-13.jpg"}
+[03:39:04 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2076,"file":"image-10.jpg"}
+[03:39:04 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2077,"file":"image-12.jpg"}
+[03:39:04 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2078,"file":"image-08.jpg"}
+[03:39:04 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2079,"file":"image-09.jpg"}
+[03:39:04 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2080,"file":"image-11.jpg"}
+[03:39:04 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2081,"file":"image-06.jpg"}
+[03:39:04 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":50}
+[03:39:05 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":"50"}
+[03:39:05 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2082,"file":"image-04.jpg"}
+[03:39:05 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2083,"file":"product-mug8.jpg"}
+[03:39:06 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2084,"file":"product-mug6.jpg"}
+[03:39:07 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2085,"file":"product-mug10.jpg"}
+[03:39:08 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2086,"file":"product-mug4.jpg"}
+[03:39:09 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2087,"file":"product-mug2.jpg"}
+[03:39:10 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2133,"file":"review-1.png"}
+[03:39:10 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2138,"file":"5stars-free-img.png"}
+[03:39:11 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2186,"file":"inner-page-bg-1.jpg"}
+[03:39:12 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2245,"file":"home-banner.jpg"}
+[03:39:14 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":71,"offset":"60","chunk_size":10}
+[03:39:13 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":60}
+[03:39:14 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":"60"}
+[03:39:14 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2571,"file":"graphic05-free-img.png"}
+[03:39:15 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2596,"file":"image26-free.png"}
+[03:39:16 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2644,"file":"logo-2.png"}
+[03:39:16 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2645,"file":"logo-7.png"}
+[03:39:16 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2646,"file":"logo-9.png"}
+[03:39:16 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2647,"file":"logo-10.png"}
+[03:39:16 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2648,"file":"logo-11.png"}
+[03:39:16 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2711,"file":"hero11-free-img.png"}
+[03:39:18 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2843,"file":"demo-screenshot.jpg"}
+[03:39:19 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":71,"offset":"70","chunk_size":10}
+[03:39:19 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":71,"offset":"80","chunk_size":10}
+[03:39:18 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":3599,"file":"team-0-245x300-1.jpg"}
+[03:39:18 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":70}
+[03:39:20 UTC] [INFO] ---- Processing Images from Widgets -----
+[03:39:19 UTC] [INFO] Processing CE image batch | Context: {"batch_size":1,"offset":"70"}
+[03:39:19 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":3911,"file":"print-favicon-free-img.png"}
+[03:39:19 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":1,"errors":0,"new_offset":80}
+[03:39:20 UTC] [INFO] ---- Processing batch process for Customizer start ----
+[03:39:19 UTC] [INFO] Processing CE image batch | Context: {"batch_size":0,"offset":"80"}
+[03:39:19 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":0,"errors":0,"new_offset":90}
+[03:39:20 UTC] [INFO] ---- Processing batch process for Customizer done ----
+[03:39:20 UTC] [INFO] ---- Processing Contact Form Mapping from Text Widgets -----
