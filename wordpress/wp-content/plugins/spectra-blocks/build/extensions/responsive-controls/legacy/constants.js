@@ -1,1 +1,0 @@
-(()=>{"use strict";Object.freeze({lg:"base",md:"@tablet",sm:"@mobile"})})();
